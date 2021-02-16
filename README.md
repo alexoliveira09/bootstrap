@@ -1,2 +1,2 @@
 # Bootstrap classes
-Bootstrap class repository
+Bootstrap class repository.
