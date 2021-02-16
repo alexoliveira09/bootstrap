@@ -1,2 +1,2 @@
-# bootstrap
- Repositório para aulas de bootstrap e projetos
+# Bootstrap classes
+Bootstrap class repository
